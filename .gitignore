@@ -6,3 +6,4 @@ angular12-crud-app-demo/node_modules/*
 django-mongodb-crud-app-demo/venv/*
 django-mongodb-crud-app-demo/djangorestapi/djangorestapi/__pycache__/*
 django-mongodb-crud-app-demo/djangorestapi/tutorials/__pycache__/*
+django-mongodb-crud-app-demo/djangorestapi/tutorials/migrations/__pycache__/*
