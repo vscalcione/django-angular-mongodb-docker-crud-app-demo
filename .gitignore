@@ -1,0 +1,6 @@
+
+# frontend directory
+angular12-crud-app-demo/node_modules/*
+
+# backend directory
+django-mongodb-crud-app-demo/venv/*
